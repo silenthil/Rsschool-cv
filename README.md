@@ -1,1 +1,1 @@
-https://github.com/silenthil/rsschool-cv.git
+https://silenthi.github.io/rsschool-cv/cv
