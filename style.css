@@ -1,0 +1,27 @@
+html {
+display: flex;
+}
+
+body {
+    text-align: center;
+    background: url(forest\ 3.jpg) no-repeat;
+    color: #000000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+}
+li {
+    text-align: left;
+    padding: 5px;
+}
+ul {
+    border: 1px solid silver;
+    border-radius: 1em;
+}
+img {
+    text-align: left;
+    width: 180px;
+    height: 180px;
+    border: 2px solid rgb(173, 223, 223);
+    border-radius: 5em;
+}
