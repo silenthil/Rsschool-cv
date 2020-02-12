@@ -1,14 +1,18 @@
-html {
+githtml {
 display: flex;
+
 }
 
 body {
     text-align: center;
-    background: url(/img/forest\ 3.jpg) no-repeat;
+    background: url(img/forest\ 3.jpg) no-repeat;
     color: #000000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
-    font-size: 1em;
+    font-size: 1em;   
+}
+div { 
+    width: 1024px;
 }
 li {
     text-align: left;
@@ -23,5 +27,6 @@ img {
     width: 180px;
     height: 180px;
     border: 2px solid rgb(173, 223, 223);
-    border-radius: 5em;
+    border-radius: 25%;
+    margin-top: 2em;
 }
