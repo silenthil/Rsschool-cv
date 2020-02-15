@@ -1,32 +1,37 @@
-githtml {
-display: flex;
-
-}
-
 body {
-    text-align: center;
-    background: url(img/forest\ 3.jpg) no-repeat;
+    align-items: center;
+    text-align: left;
     color: #000000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bold;
-    font-size: 1em;   
+    font-size: 18px;  
+    max-width: 1024px;
+    margin: 0 auto;
+    background: url(img/forest\ 3.jpg) no-repeat, center;
+    background-size: cover; 
 }
-div { 
-    width: 1024px;
+h2  {
+    margin: 0 auto;
+    text-transform: uppercase;
 }
+
 li {
+    margin: 5px 5px 5px;
     text-align: left;
-    padding: 5px;
 }
 ul {
+    margin: 5px 0px 5px;
     border: 1px solid silver;
     border-radius: 1em;
 }
 img {
     text-align: left;
-    width: 180px;
-    height: 180px;
+    width: 20%;
     border: 2px solid rgb(173, 223, 223);
     border-radius: 25%;
     margin-top: 2em;
+}
+main { 
+    display: flex;
+    justify-content: space-between;
 }
