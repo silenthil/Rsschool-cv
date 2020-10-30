@@ -21,10 +21,11 @@ async function getQuote() {
     figcaption.textContent = data.quote.author;
 }
 ```
-#  Education:
-   * [HTMLACADEMY HTML/CSS/JS courses](https://htmlacademy.ru/profile/id887617)
-   * BSIUR (4 courses)
-   * RSschool
-# English:
-   * pre-Intermediate
-
+#  
+Education:
+    * [HTMLACADEMY HTML/CSS/JS courses](https://htmlacademy.ru/profile/id887617)
+    * BSIUR (4 courses)
+    * RSschool
+# 
+English:
+    * pre-Intermediate
