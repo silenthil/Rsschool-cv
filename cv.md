@@ -7,10 +7,10 @@
 #  About me
 I m 24 y.o. man who want enter into iT industry. So I started exploring this sphere at the University and now i want to learn and practice it more. It's not a problem to learn and investigate something new quickly.
 # Skills
--[x] JavaScript 
--[x] Git
--[x] HTML
--[x] CSS
+- [x] Javascript
+- [x] HTML
+- [x] CSS
+- [x] Git
 # Code example:
 ```javascript
 async function getQuote() {
