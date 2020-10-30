@@ -9,7 +9,10 @@ I m 24 y.o. man who want enter into iT industry. So I started exploring this sph
 # Skills
 Programming Languages | Additional stuff
 ------------ | -------------------------
-JavaScript | Git,HTML,CSS
+JavaScript | Git
+           |HTML
+           |CSS
+
 # Code example:
 ```javascript
 async function getQuote() {
