@@ -10,8 +10,8 @@ I m 24 y.o. man who want enter into iT industry. So I started exploring this sph
 Programming Languages | Additional stuff
 ------------ | -------------------------
 JavaScript | Git
- |HTML
- |CSS
+           |HTML
+           |CSS
 
 # Code example:
 ```javascript
