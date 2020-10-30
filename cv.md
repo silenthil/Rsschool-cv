@@ -22,10 +22,9 @@ async function getQuote() {
 }
 ```
 #  Education:
-  *
    * [HTMLACADEMY HTML/CSS/JS courses](https://htmlacademy.ru/profile/id887617)
    * BSIUR (4 courses)
    * RSschool
 # 
 English:
-    * pre-Intermediate
+   * pre-Intermediate
