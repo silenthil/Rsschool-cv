@@ -7,16 +7,11 @@
 #  About me
 I m 24 y.o. man who want enter into iT industry. So I started exploring this sphere at the University and now i want to learn and practice it more. It's not a problem to learn and investigate something new quickly.
 # Skills
-<<<<<<< HEAD
-Programming Languages | Additional stuff
------------- | -------------------------
-JavaScript | Git,HTML,CSS
-=======
+
 - [x] Javascript
 - [x] HTML
 - [x] CSS
 - [x] Git
->>>>>>> d944853880fd5420c15979bbd42b3f7e7878e92f
 # Code example:
 ```javascript
 async function getQuote() {
@@ -31,12 +26,7 @@ async function getQuote() {
    * [HTMLACADEMY HTML/CSS/JS courses](https://htmlacademy.ru/profile/id887617)
    * BSIUR (4 courses)
    * RSschool
-<<<<<<< HEAD
-# 
-English:
-   * pre-Intermediate
-=======
+
 # English:
    * pre-Intermediate
 
->>>>>>> d944853880fd5420c15979bbd42b3f7e7878e92f
