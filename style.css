@@ -7,7 +7,7 @@ body {
     color: #000000;
     font-family: 'Prata', serif;
     font-weight: 400;
-    font-size: 20px;
+    font-size: 18px;
     letter-spacing: 0.06rem;
     background-color: #000000;
 }
@@ -110,7 +110,7 @@ nav>a {
 }
 
 .lang :nth-child(2) {
-    padding: 10px 0 120px 20px;
+    padding: 10px 0 15px 20px;
 }
 
 /*-----------------------------------lang------------------------------------*/
