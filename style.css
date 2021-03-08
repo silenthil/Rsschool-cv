@@ -47,7 +47,7 @@ main {
     margin: 0 0 20px 0;
     border: 2px solid #ffffff;
     border-radius: 100%;
-    background-image: no-repeat cover;
+    background: no-repeat;
 }
 
 nav {
@@ -187,12 +187,16 @@ nav :nth-child(n-1) {
     margin: 5px 20px 5px 0;
 }
 
-.skills {
+.content li {
+    margin: 5px 15px 5px 0;
+}
+
+.skills ul {
     display: flex;
     flex-wrap: wrap;
 }
 
-.skills div {
+.skills li {
     padding: 10px;
     color: #ffffff;
     border: 2px solid rgba(48, 61, 70, 10%);
@@ -253,4 +257,11 @@ nav :nth-child(n-1) {
 .yearOftask {
     color: #fff;
     font-weight: 900;
+}
+
+@media screen and (max-width:768px) {
+    main {
+        display: flex;
+        flex-direction: column;
+    }
 }
