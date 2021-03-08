@@ -27,4 +27,3 @@ async function getQuote() {
    * RSschool
 # English:
    * pre-Intermediate
-
