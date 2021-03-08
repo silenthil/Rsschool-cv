@@ -32,7 +32,7 @@ a {
     color: white;
 }
 
-/*------------------------------------Main----------------------------------------------*/
+/*------------------------------------Main+img+nav----------------------------------------------*/
 
 main {
     padding: 20px 0 20px 20px;
@@ -41,7 +41,7 @@ main {
 }
 
 .me>img {
-    margin: 20px 0 20px 0;
+    margin: 0 0 20px 0;
     border: 2px solid #ffffff;
     border-radius: 100%;
     background-image: no-repeat cover;
@@ -49,6 +49,10 @@ main {
 
 nav {
     margin: 20px 0 20px 0;
+}
+
+nav :nth-child(n-1) {
+    margin-top: 5px;
 }
 
 /*------------------------------------maininfo----------------------------------------------*/
@@ -98,7 +102,7 @@ nav {
     color: #313c4e;
 }
 
-.EXPERIENCE h5{
+.EXPERIENCE h5 {
     margin: 15px 0 0 0;
 }
 
@@ -106,7 +110,7 @@ nav {
     list-style: square;
 }
 
-.date{
+.date {
     color: grey;
     font-size: 14px;
     font-style: italic;
@@ -141,6 +145,11 @@ nav {
     padding-left: 20px;
 }
 
+.education p {
+    font-weight: bolder;
+    opacity: 90%;
+}
+
 .education h3 {
     width: 95%;
     padding: 5px 0 5px 0;
@@ -158,7 +167,7 @@ nav {
 
 /*------------------------------------slidebar----------------------------------------------*/
 
-.content h3{
+.content h3 {
     width: 95%;
     padding: 5px 0 5px 0;
     font-size: 24px;
@@ -166,13 +175,66 @@ nav {
     border-bottom: 3px solid #313c4e;
 }
 
-.content div{
-    margin: 10px 0 10px 0;
+.content div {
+    margin: 5px 20px 5px 0;
 }
 
-/*------------------------------------Main----------------------------------------------*/
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+}
 
-/*------------------------------------Main----------------------------------------------*/
+.skills div {
+    padding: 10px;
+    color: #ffffff;
+    border: 2px solid rgba(48, 61, 70, 10%);
+    background-color: rgba(48, 61, 70, 80%);
+    border-radius: 10px;
+}
+
+.lang {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lang :nth-child(2) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.lang :nth-child(n+3) {
+    width: 20px;
+    height: 20px;
+    border: 2px solid rgba(48, 61, 70, 50%);
+    border-radius: 50%;
+}
+
+.marked {
+    background-color: rgba(48, 61, 70, 100%);
+}
+
+.marked:hover {
+    cursor: pointer;
+    background-color: rgba(48, 61, 70, 100%);
+    transform: scale(1.3);
+}
+
+.INTERESTS {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.INTERESTS div {
+    margin-top: 10px;
+    padding: 10px;
+    color: #000000;
+    border: 2px solid rgba(48, 61, 70, 10%);
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+/*------------------------------------FOOTER----------------------------------------------*/
 
 .footer {
     display: flex;
